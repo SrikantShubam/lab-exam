@@ -34,5 +34,30 @@ max-width: 30rem;
     max-width: 100%;
 } */
 
+#footer-kinda{
+    background-color: black;
+    color: green;
+}
 
 
+#footer-kinda h2{
+    color: white;
+}
+
+#footer-kinda h4{
+    font-size: 20px;
+}
+
+
+.socials{
+
+    margin-top: 4rem;
+    color:grey
+}
+
+#footer-kinda i{
+    margin-right: 3rem;
+}
+.btn-success{
+    background-color: green;
+}
